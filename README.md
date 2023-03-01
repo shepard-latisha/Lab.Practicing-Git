@@ -1,1 +1,1 @@
-This is a repo for learning git
+I did this on my own 
